@@ -1,14 +1,12 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *ѕнαηвσт ву DarkZE* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
+   ○ Creador: DarkZE™ 
+   
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}antimenu
@@ -92,7 +90,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-ву ѕнαη∂υу
+ву DarkZE
 
 
 ⌜ *ごきげんよう :)* ⌟ 
